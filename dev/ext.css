@@ -1,0 +1,42 @@
+body{
+    margin:0;
+    padding:10px;
+    font-family:Arial, Helvetica, sans-serif;
+    min-width:400px;
+    /* text-align: center; */
+}
+
+button{
+    background-color: green;
+    color: white;
+    margin: 5px;
+    padding: 8px;
+
+}
+
+#input{
+    width:100%;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-top:10px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+.btn{
+    text-align: center;
+}
+
+ul{
+    margin-top:20px;
+    list-style: none;
+    padding-left: 0;
+}
+a{
+    color: green;
+}
+li{
+    margin-top:2px;
+    margin-bottom:2px;
+}
